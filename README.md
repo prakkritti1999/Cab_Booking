@@ -96,6 +96,6 @@ This is a real-time cab booking system built using Spring Boot and microservices
 
 Prakriti Sharma  
 Java Backend Developer  
-Email: yourname@example.com  
-LinkedIn: https://linkedin.com/in/your-profile
+Email: prakriti.guptta@gmail.com 
+LinkedIn: https://www.linkedin.com/in/prakriti-gupta-870970188/
 
