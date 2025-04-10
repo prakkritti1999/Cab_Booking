@@ -1,0 +1,15 @@
+@charset "ISO-8859-1";
+
+.card {
+	border: 1px solid #ddd;
+	transition: transform 0.2s ease, box-shadow 0.2s ease;
+}
+.clickable-card {
+	cursor: pointer;
+}
+
+.card-title {
+	display: flex;
+	justify-content: space-between;
+	align-items: center;
+}
